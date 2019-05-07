@@ -3,9 +3,9 @@ require "language/node"
 class Jsref < Formula
   desc "JavaScript refactoring language server"
   homepage "https://github.com/slonoed/jsref#readme"
-  url "https://registry.npmjs.org/@slonoed/jsref/-/jsref-1.0.4.tgz"
-  version "1.0.4"
-  sha256 "510edcafed16b8320655d0db084bb3555f60cc41db5dde6fde0b0a88cf367f24"
+  url "https://registry.npmjs.org/@slonoed/jsref/-/jsref-1.0.5.tgz"
+  version "1.0.5"
+  sha256 "af859682f094378babe50c186a7c6a5e25ff7b8bdd98dc4f25bd1ce4c108cd9d"
 
   depends_on "node"
 
